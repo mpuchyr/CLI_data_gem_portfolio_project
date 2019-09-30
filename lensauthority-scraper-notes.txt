@@ -1,0 +1,24 @@
+- scrapes through lensauthority
+- item details: brand, item name, description, price
+
+Main Menu
+Special Deals on Lens Authority
+
+Please choose the number of the action you'd like to take:
+1. List all products
+2. Find specific product (include possible matches, if not found)
+3. Find product by brand (include possible matches, if not found)
+4. Find products by In Stock
+5. Find products by condition
+6. Exit
+
+Product Info Display:
+Product Name
+Price
+Condition
+Availability
+Description
+
+
+
+
